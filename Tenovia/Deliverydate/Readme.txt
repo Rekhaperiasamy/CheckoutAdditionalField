@@ -1,0 +1,1 @@
+This module will add delivery date in checkout page and will add the selected date in sales order grid as well as sales order view page.
